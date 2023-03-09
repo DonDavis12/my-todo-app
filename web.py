@@ -1,6 +1,7 @@
 #in streamlit order of writing the script important.
 #streamlit run web.py
 #pip freeze > requirements.txt
+#st.set_page_config(layout = "wide")
 
 import streamlit as st
 import functions
